@@ -11,6 +11,7 @@
 Console.WriteLine("Введите количество строк: ");
 int rows = int.Parse(Console.ReadLine());
 
+
 Console.WriteLine("Введите количество столбцов: ");
 int columns = int.Parse(Console.ReadLine());
 
